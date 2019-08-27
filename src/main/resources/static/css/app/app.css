@@ -1,0 +1,20 @@
+body{
+    background-color: #f9f9f9;
+}
+span.spacing{
+    margin-right: 0px;
+}
+input.custom-width{
+    width: 200px;
+}
+input.spacing{
+    margin-right: 0px;
+}
+input.border{
+    border-radius: 0;
+    border-color: #7b7a7a36;
+    border-width: thin;
+}
+button.border{
+    border-radius: 0;
+}
